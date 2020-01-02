@@ -1,1 +1,1 @@
-# CMPE277Lab 2 College Management System
+# CMPE277 Lab 2 College Clubs Management System
